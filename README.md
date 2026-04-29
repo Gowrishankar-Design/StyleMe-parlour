@@ -1,2 +1,2 @@
-# style-me-website
+# style
 An amazing webpage for a womens beauty parlour
